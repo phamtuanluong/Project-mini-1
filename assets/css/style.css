@@ -172,6 +172,14 @@
         width: 220px;
     }
 }
+
+@media (max-width: 342px) {
+    .section-one .inner-content .inner-wrap{
+        display: flex;
+        flex-direction: column;
+        width: 220px;
+    }
+}
 /* End Section one */
 
 /* Section two */
